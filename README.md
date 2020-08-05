@@ -11,7 +11,7 @@
 
 <h3 align="center">✨ Specials!!! ✨</h3>
 
-- 🔭 Favourite tool is React & Node
+- 🔭 Favourite tools are React & Node
 - 🌱 I’m currently learning Angular
 - 🤔 I’m looking for help with tech books
 - 💬 Ask me about JavaScript
