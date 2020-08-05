@@ -9,7 +9,7 @@
 
 ✨ I'm a MERN Stack developer based in Nigeria. I’m passionate about making the web accessible to everyone and also an advocate for building open-source projects.
 
-<h3 align="center">✨ special!!! ✨</h3>
+<h3 align="center">✨ Specials!!! ✨</h3>
 
 - 🔭 Favourite tool is React & Node
 - 🌱 I’m currently learning Angular
