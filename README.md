@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋! I'm Okoro Alvin Uchenna</h3>
 <p align="center">
-  <a href="https://alvinuchenna.dev">Website</a> •
+  <a href="https://alvinuchenna.netlify.app/">Website</a> •
   <a href="https://twitter.com/veri5ied">Twitter</a>
 </p>
 
