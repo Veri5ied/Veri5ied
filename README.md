@@ -18,4 +18,4 @@
 - 📫 How to reach me: [@Veri5ied](https://twitter.com/veri5ied)
 - ⚡ Fun fact: Video game lover (FIFA die hard fan)
 
-[![Veri5ied's github stats](https://github-readme-stats.vercel.app/api?username=Veri5ied)]
+![Veri5ied's github stats](https://github-readme-stats.vercel.app/api?username=Veri5ied)
