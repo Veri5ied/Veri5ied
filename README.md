@@ -30,6 +30,9 @@
 <img alt="react" width="28px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
+<img alt="redux" width="28px" src="https://img.icons8.com/color/240/000000/redux.png" />
+</code>](https://redux.js.org/)
+[<code>
 <img alt="typescript" width="28px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
