@@ -55,7 +55,10 @@
 </code>](https://nodejs.org/en/)
 [<code>
 <img alt="MongoDB" width="28px" src="https://img.icons8.com/color/240/000000/mongodb.png">
-</code>](https://mongodb)
+</code>](https://mongodb.com)
+[<code>
+<img alt="Firebase" width="28px" src="https://img.icons8.com/color/240/000000/firebase.png">
+</code>](https://firebase.google.com)
 [<code>
 <img alt="Git" width="28px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
