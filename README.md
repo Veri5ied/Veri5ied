@@ -19,4 +19,4 @@
 - ⚡ Fun fact: Video game lover (FIFA die hard fan)
 
 ![Veri5ied's github stats](https://github-readme-stats.vercel.app/api?username=Veri5ied&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veri5ied&layout=compact&theme=dark)](https://github.com/Veri5ied/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veri5ied&layout=compact&theme=dark)]
