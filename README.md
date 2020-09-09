@@ -15,7 +15,7 @@
 
 - 🔭 Favourite tools are React & Node
 - 🌱 I’m currently learning algorithms and problem solvings
-- 🤔 I’m looking forward to meeting so many tech gurus
+- 🤔 I’m looking forward to meeting other techies 
 - 💬 Ask me about JavaScript more especially on React
 - 📫 How to reach me: [@Veri5ied](https://twitter.com/veri5ied)
 - ⚡ Fun fact: Video game lover (FIFA die hard fan)
