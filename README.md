@@ -14,7 +14,7 @@
 <h3 align="center">✨ Specials!!! ✨</h3>
 
 - 🔭 Favourite tools are React & Node
-- 🌱 I’m currently learning and growing more on solving algorithms
+- 🌱 I’m currently learning algorithms et problem solvings
 - 🤔 I’m looking for help with tech books
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [@Veri5ied](https://twitter.com/veri5ied)
