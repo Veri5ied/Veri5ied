@@ -14,9 +14,9 @@
 <h3 align="center">✨ Specials!!! ✨</h3>
 
 - 🔭 Favourite tools are React & Node
-- 🌱 I’m currently learning algorithms et problem solvings
+- 🌱 I’m currently learning algorithms and problem solvings
 - 🤔 I’m looking for help with tech books
-- 💬 Ask me about JavaScript
+- 💬 Ask me about JavaScript more especially on React
 - 📫 How to reach me: [@Veri5ied](https://twitter.com/veri5ied)
 - ⚡ Fun fact: Video game lover (FIFA die hard fan)
 
