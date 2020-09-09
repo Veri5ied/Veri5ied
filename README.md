@@ -9,13 +9,13 @@
 
 ---
 
-✨ I'm a MERN Stack developer based in Nigeria. I’m passionate about making the web accessible to everyone and also I provide support too.
+✨ I'm a MERN Stack developer based in Nigeria. I’m passionate about making the web accessible to everyone and also provide support.
 
 <h3 align="center">✨ Specials!!! ✨</h3>
 
 - 🔭 Favourite tools are React & Node
 - 🌱 I’m currently learning algorithms and problem solvings
-- 🤔 I’m looking for help with tech books
+- 🤔 I’m looking for an opportunity to share what I know to the world
 - 💬 Ask me about JavaScript more especially on React
 - 📫 How to reach me: [@Veri5ied](https://twitter.com/veri5ied)
 - ⚡ Fun fact: Video game lover (FIFA die hard fan)
