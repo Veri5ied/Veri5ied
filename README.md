@@ -13,10 +13,10 @@
 
 <h3 align="center">✨ Specials!!! ✨</h3>
 
-- 🔭 Favourite tools are React & Node
+- 🔭 Favourite tools are React JS & Node JS
 - 🌱 I’m currently learning algorithms and problem solvings
 - 🤔 I’m looking forward to meeting other techies 
-- 💬 Ask me about JavaScript more especially on React
+- 💬 Ask me about JavaScript more especially on React JS
 - 📫 How to reach me: [@Veri5ied](https://twitter.com/veri5ied)
 - ⚡ Fun fact: Video game lover (FIFA die hard fan)
 
