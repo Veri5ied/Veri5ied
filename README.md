@@ -9,7 +9,7 @@
 
 ---
 
-✨ I'm a <b>Software Engineer</b> based in Nigeria. I’m passionate about making the web accessible to everyone and also provide support.
+✨ I am a <b>Software Engineer</b> based in Nigeria. I’m passionate about making the web accessible to everyone and also provide support.
 
 <h3 align="center">✨ Specials!!! ✨</h3>
 
